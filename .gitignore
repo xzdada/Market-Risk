@@ -2,14 +2,11 @@
 .env
 *.key
 
-# Data files, via data_loader.py.
+# Raw data only — processed data is committed for reproducibility
 data/raw/prices/
 data/raw/macro/
-data/processed/returns/
-data/processed/regimes/
-data/processed/risk_metrics/
 
-# Keep the folder structure visible on GitHub
+# Keep raw folder structure visible on GitHub
 !data/raw/prices/.gitkeep
 !data/raw/macro/.gitkeep
 
