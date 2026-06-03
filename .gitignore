@@ -1,0 +1,48 @@
+# Credentials & environment
+.env
+*.key
+
+# Data files, via data_loader.py.
+data/raw/prices/
+data/raw/macro/
+data/processed/returns/
+data/processed/regimes/
+data/processed/risk_metrics/
+
+# Keep the folder structure visible on GitHub
+!data/raw/prices/.gitkeep
+!data/raw/macro/.gitkeep
+!data/processed/returns/.gitkeep
+!data/processed/regimes/.gitkeep
+!data/processed/risk_metrics/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
