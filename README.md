@@ -66,6 +66,7 @@ GARCH is the only model passing the independence test. Its time-varying volatili
 
 ## Repository Structure
 
+```
 portfolio-risk-system/
 ├── README.md
 ├── requirements.txt
@@ -89,6 +90,7 @@ portfolio-risk-system/
 │
 └── src/
     └── data_loader.py     <- Data acquisition (yfinance + FRED)
+```
 
 ## Setup & Reproduction
 
