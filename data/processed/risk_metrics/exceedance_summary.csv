@@ -1,0 +1,4 @@
+method,n_exceedances,n_days,exceedance_rate,expected_rate
+Historical Simulation,86,5032,1.709,1.0
+Parametric (Normal),133,5032,2.643,1.0
+"GARCH(1,1)-filtered",78,5032,1.55,1.0

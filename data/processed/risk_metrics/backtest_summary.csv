@@ -1,0 +1,4 @@
+Model,Exceedances,Full rate (%),z-stat,LRuc,Reject LRuc,LRind,Reject LRind,LRcc,Reject LRcc,AD stat (PIT),AD reject (PIT),Stress rate (%),Primary failure
+Historical Simulation,86,1.71,5.06,21.08,Yes,8.32,Yes,29.39,Yes,5.43,Yes,5.14,Frequency + Clustering
+Parametric (Normal),133,2.64,11.71,94.56,Yes,16.47,Yes,111.03,Yes,40.03,Yes,7.51,Frequency + Clustering + Tails
+"GARCH(1,1)-filtered",78,1.55,3.92,13.17,Yes,1.95,No,15.12,Yes,13.08,Yes,2.5,Frequency only
