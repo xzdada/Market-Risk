@@ -14,6 +14,7 @@ arch>=6.2
 # Visualisation 
 plotly>=5.18
 matplotlib>=3.7
+kaleido
 
 # Notebook
 jupyter>=1.0
