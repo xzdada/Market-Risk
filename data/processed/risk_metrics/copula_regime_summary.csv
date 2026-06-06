@@ -1,0 +1,4 @@
+regime,n_days,mean_corr,std_corr,min_corr,max_corr
+expansion,2599,0.2448,0.135,0.0822,0.7718
+normal,1904,0.4107,0.1154,0.2602,0.8549
+stress,759,0.621,0.0792,0.5119,0.9051
