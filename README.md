@@ -1,4 +1,4 @@
-# Portfolio Risk System
+# Market Risk & Portfolio Analytics Framework
 
 A end-to-end market risk analysis framework implementing VaR/ES estimation, statistical backtesting, and regime-dependent correlation modelling across a multi-asset equity portfolio. Built as a personal project to demonstrate quantitative risk management skills relevant to buy-side quant and sell-side risk roles.
 
